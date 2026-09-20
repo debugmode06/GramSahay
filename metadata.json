@@ -1,0 +1,6 @@
+{
+  "name": "GramSahay",
+  "description": "Rural Business Decision Intelligence Platform & Financial Navigator for First-Time Entrepreneurs",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

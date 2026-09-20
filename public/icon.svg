@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <rect width="512" height="512" rx="128" fill="#2563EB"/>
+  <circle cx="256" cy="256" r="180" fill="#1D4ED8" opacity="0.5"/>
+  <!-- Shield outline -->
+  <path d="M256 90 L370 140 C370 270 256 380 256 410 C256 380 142 270 142 140 Z" fill="#FFFFFF" opacity="0.95"/>
+  <!-- Plant / Sprout inside -->
+  <path d="M256 340 V200" stroke="#16A34A" stroke-width="18" stroke-linecap="round"/>
+  <path d="M256 260 C230 220 180 220 180 220 C180 220 180 270 220 280 C240 285 256 280 256 280" fill="#22C55E"/>
+  <path d="M256 230 C282 190 332 190 332 190 C332 190 332 240 292 250 C272 255 256 250 256 250" fill="#16A34A"/>
+  <!-- Rupee Symbol -->
+  <circle cx="256" cy="150" r="32" fill="#2563EB"/>
+  <text x="256" y="162" font-family="sans-serif" font-size="34" font-weight="bold" fill="#FFFFFF" text-anchor="middle">₹</text>
+</svg>
